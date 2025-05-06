@@ -1,0 +1,1 @@
+i was tryna make a launcher like anydesk, parsec, remote desktop connection with python (FFmpeg) to stream and capture outputs from the host.py aoh2 to the client.py but i failed horribly at maintaining performance and didnt even get to capturing keyboard&mouse inputs hope someone will continue this project 🙏
